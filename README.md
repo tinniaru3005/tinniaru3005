@@ -3,7 +3,7 @@
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/arunima-chaudhuri-95217b194/)
 - [GitHub](https://github.com/tinniaru3005)
-- [runimachaudhuri2020@gmail.com](arunimachaudhuri2020@gmail.com)
+- arunimachaudhuri2020@gmail.com
 
 <!--
 
