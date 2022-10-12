@@ -1,8 +1,7 @@
 # ✨ Hi, I'm Arunima
 
 ## 📫 Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/arunima-chaudhuri-95217b194/)
-- [GitHub](https://github.com/tinniaru3005)
+- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arunima-chaudhuri-95217b194/)
 - arunimachaudhuri2020@gmail.com
 
 
