@@ -4,18 +4,18 @@
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arunima-chaudhuri-95217b194/)
 - arunimachaudhuri2020@gmail.com
 
-
 ## 👩‍💻 I am currently a
 
 - MLH Fall Fellow '22 @Solana Labs
 - Technical Coach @AnitaB.org
 - CLI @SWE participant
 - OSS Cohort #3 Mentee @Codess.Cafe
+- Contributor @Hacktoberfest
+- B. Tech CSE '23
 
 ## 🤩 I was a
 - MLH Prep Fellow July '22
 - Mentor at Open Source Hack '22
-
 
 ## 🏆 Achievements
 
