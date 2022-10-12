@@ -19,7 +19,7 @@
 
 ## 🏆 Achievements
 
-- LiFT Scholar '22
+- LiFT Scholar '22 in Women in Open Source category
 - Women in Tech Global Conference (WTGC) Scholar '22
 - GATE CS '22 AIR 1048
 
