@@ -1,8 +1,8 @@
 # ✨ Hi, I'm Arunima
 
 ## 📫 Connect with me on:
-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arunima-chaudhuri-95217b194/)
-- arunimachaudhuri2020@gmail.com
+
+<a href="https://www.linkedin.com/in/arunima-chaudhuri-95217b194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:arunimachaudhuri2020@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 👩‍💻 I am currently a
 
