@@ -8,6 +8,7 @@
 
 - MLH Fall Fellow '22 @Solana Labs
 - Technical Coach @AnitaB.org
+- Open Source Hack Mentor
 - CLI @SWE participant
 - OSS Cohort #3 Mentee @Codess.Cafe
 - Contributor @Hacktoberfest
@@ -15,7 +16,7 @@
 
 ## 🤩 I was a
 - MLH Prep Fellow July '22
-- Mentor at Open Source Hack '22
+- Open Source Hack Mentor July '22
 
 ## 🏆 Achievements
 
