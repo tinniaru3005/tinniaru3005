@@ -34,10 +34,10 @@
 - 💬 Ask me about tech related stuffs
 - ⚡ Fun fact: I procastinate more than I code
 
-<h2 align="left">GitHub Statistics</h2>
+## GitHub Statistics
 
 <a href="https://github.com/tinniaru3005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=tokyonight&layout=compact&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=tokyonight&layout=compact&">
 </a>
 
 ![Arunima Chaudhuri Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tinniaru3005&show_icons=true&include_all_commits=true&theme=radical)
