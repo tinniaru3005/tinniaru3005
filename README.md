@@ -6,7 +6,7 @@
 
 ## 👩‍💻 I am currently a
 
-- MLH Fall Fellow '22 @Solana Labs
+- MLH Fall Fellow '22 @Solana Labs in Software Engineering track
 - Technical Coach @AnitaB.org
 - Open Source Hack Mentor
 - CLI @SWE participant
