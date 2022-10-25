@@ -44,4 +44,4 @@
 
 [![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![Visitor Count](https://profile-counter.glitch.me/{tinniaru3005}/count.svg) 
