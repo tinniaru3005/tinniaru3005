@@ -36,11 +36,13 @@
 
 ## 📈 GitHub Statistics
 
+<img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="49%" align="left">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="49%" >
+
 <a href="https://github.com/tinniaru3005">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=tokyonight&layout=compact&">
 </a>
-
-![Arunima Chaudhuri Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tinniaru3005&show_icons=true&include_all_commits=true&theme=radical)
 
 [![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
