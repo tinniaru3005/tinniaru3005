@@ -36,9 +36,9 @@
 
 ## 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="49%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="49%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
 
 [![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
