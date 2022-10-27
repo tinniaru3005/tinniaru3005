@@ -46,6 +46,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=tokyonight&layout=compact&">
 </a>
 
-<h3 align="left">Profile views:</h3>
+## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{tinniaru3005}/count.svg) 
