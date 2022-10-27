@@ -40,10 +40,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
 
-[![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/tinniaru3005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=tokyonight&layout=compact&">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=radical&layout=compact&">
 </a>
 
 ## 👀 Profile views
