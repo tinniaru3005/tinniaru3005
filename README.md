@@ -21,7 +21,7 @@
 ## 🏆 Achievements
 
 - Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
-- LiFT Scholar '22 in Women in Open Source category
+- Linux Foundation Training (LiFT) Scholar '22 in Women in Open Source category
 - Women in Tech Global Conference (WTGC) Scholar '22
 - GATE CS '22 AIR 1048
 
