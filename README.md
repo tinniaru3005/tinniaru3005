@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Arunima
+# ✨ Hello World! 🌏 I'm Arunima
 
 ## 📫 Connect with me on:
 
