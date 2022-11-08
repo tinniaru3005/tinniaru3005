@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with contributing to open source projects
 - 💬 Ask me about tech related stuffs
-- ⚡ Fun fact: I procastinate more than I code
+- ⚡ Fun fact: I procrastinate more than I code
 
 ## 📈 GitHub Statistics
 
