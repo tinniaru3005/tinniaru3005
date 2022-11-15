@@ -16,7 +16,7 @@
 ## 🤩 I was a
 - Contributor @Hacktoberfest '22
 - MLH Prep Fellow July '22
-- Open Source Hack Mentor July '22
+- Open Source Hack Mentor July '22 and October '22
 
 ## 🏆 Achievements
 
