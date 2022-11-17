@@ -20,6 +20,7 @@
 
 ## 🏆 Achievements
 
+- Speaker at GDG DevFest Kolkata '22
 - Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
 - Linux Foundation Training (LiFT) Scholar '22 in Women in Open Source category
 - Women in Tech Global Conference (WTGC) Scholar '22
