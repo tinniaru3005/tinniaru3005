@@ -20,6 +20,7 @@
 
 ## 🏆 Achievements
 
+- Harvard WEAmplify Extended Scholar '23
 - Speaker at GDG DevFest Kolkata '22
 - Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
 - Linux Foundation Training (LiFT) Scholar '22 in Women in Open Source category
