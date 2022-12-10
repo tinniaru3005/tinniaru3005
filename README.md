@@ -6,7 +6,6 @@
 
 ## 👩‍💻 I am currently a
 
-- MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - Harvard WECode Technology Fellow
 - Technical Coach @AnitaB.org
 - CLI @SWE participant
@@ -14,6 +13,8 @@
 - B. Tech CSE '23
 
 ## 🤩 I was a
+
+- MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - Contributor @Hacktoberfest '22
 - MLH Prep Fellow July '22
 - Open Source Hack Mentor July '22 and October '22
