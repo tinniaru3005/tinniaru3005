@@ -6,6 +6,7 @@
 
 ## 👩‍💻 I am currently a
 
+- Member & Contributor @Layer5
 - Harvard WECode Technology Fellow
 - Technical Coach @AnitaB.org
 - CLI @SWE participant
