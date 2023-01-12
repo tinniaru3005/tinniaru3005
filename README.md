@@ -22,8 +22,9 @@
 
 ## 🏆 Achievements
 
+- [WeMakeDevs Hashnode blogging challenge Special Track](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) winner for writing a blog on [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
 - Harvard WEAmplify Extended Scholar '23
-- Speaker at GDG DevFest Kolkata '22
+- Speaker at GDG DevFest Kolkata '22 - Gave a talk on how and why to contribute to open source
 - Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
 - Linux Foundation Training (LiFT) Scholar '22 in Women in Open Source category
 - Women in Tech Global Conference (WTGC) Scholar '22
