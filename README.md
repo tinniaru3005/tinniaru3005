@@ -6,6 +6,7 @@
 
 ## 👩‍💻 I am currently a
 
+- Community Manager at CodeIn Community
 - Member & Contributor @Layer5
 - Harvard WECode Technology Fellow
 - Technical Coach @AnitaB.org
