@@ -24,6 +24,7 @@
 
 ## 🏆 Achievements
 
+- Harvard WECode Distinguished Fellow Award
 - [WeMakeDevs Hashnode blogging challenge Special Track](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) winner for writing a blog on [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
 - Harvard WEAmplify Extended Scholar '23
 - Speaker at GDG DevFest Kolkata '22 - Gave a talk on how and why to contribute to open source
