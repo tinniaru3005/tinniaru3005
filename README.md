@@ -6,17 +6,14 @@
 
 ## 👩‍💻 I am currently a
 
-- Keploy API Fellow
-- Community Manager at CodeIn Community
 - Member & Contributor @Layer5
-- Harvard WECode Technology Fellow
 - Technical Coach @AnitaB.org
 - CLI @SWE participant
-- OSS Cohort #3 Mentee @Codess.Cafe
 - B. Tech CSE '23
 
 ## 🤩 I was a
 
+- Harvard WECode Technology Fellow
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - Contributor @Hacktoberfest '22
 - MLH Prep Fellow July '22
