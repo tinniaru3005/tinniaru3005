@@ -7,6 +7,7 @@
 ## 👩‍💻 I am currently a
 
 - Member & Contributor @Layer5
+- Keploy API Fellow
 - Technical Coach @AnitaB.org
 - CLI @SWE participant
 - B. Tech CSE '23
@@ -21,6 +22,7 @@
 
 ## 🏆 Achievements
 
+- [#DebuggingFeb Writeathon](https://townhall.hashnode.com/debuggingfeb-writeathon-winners) Third prize winner for writing an article on [Debugging CSS with Chrome DevTools.](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
 - Harvard WECode Distinguished Fellow Award
 - [WeMakeDevs Hashnode blogging challenge Special Track](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) winner for writing a blog on [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
 - Harvard WEAmplify Extended Scholar '23
