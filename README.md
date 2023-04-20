@@ -7,13 +7,13 @@
 ## 👩‍💻 I am currently a
 
 - Member & Contributor @Layer5
-- Keploy API Fellow
 - Technical Coach @AnitaB.org
-- CLI @SWE participant
 - B. Tech CSE '23
 
 ## 🤩 I was a
 
+- CLI @SWE participant
+- Keploy API Fellow
 - Harvard WECode Technology Fellow
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - Contributor @Hacktoberfest '22
