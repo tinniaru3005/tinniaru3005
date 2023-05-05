@@ -6,8 +6,9 @@
 
 ## 👩‍💻 I am currently a
 
-- Member & Contributor @Layer5
+- Member & Contributor @Layer5 @Meshery
 - Technical Coach @AnitaB.org
+- Content writer @Scholarship Track
 - B. Tech CSE '23
 
 ## 🤩 I was a
@@ -16,7 +17,6 @@
 - Keploy API Fellow
 - Harvard WECode Technology Fellow
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
-- Contributor @Hacktoberfest '22
 - MLH Prep Fellow July '22
 - Open Source Hack Mentor July '22 and October '22
 
