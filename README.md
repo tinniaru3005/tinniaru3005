@@ -31,15 +31,6 @@
 - Women in Tech Global Conference (WTGC) Scholar '22
 - GATE CS '22 AIR 1048
 
-## 🥰 More about me
-
-- 🔭 I’m currently working on improving my development skills
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with contributing to open source projects
-- 💬 Ask me about tech related stuffs
-- ⚡ Fun fact: I procrastinate more than I code
-
 ## 📈 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
