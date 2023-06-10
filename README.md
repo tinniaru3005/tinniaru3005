@@ -6,7 +6,7 @@
 
 ## 👩‍💻 I am currently a
 
-- LFX Mentee @Hyperledger
+- LFX Mentee @Hyperledger -  Documentation Standards
 - Technical Coach @AnitaB.org
 - Content writer @Scholarship Track
 - B. Tech CSE '23
