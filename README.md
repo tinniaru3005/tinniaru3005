@@ -8,11 +8,11 @@
 
 - LFX Mentee @Hyperledger -  Documentation Standards
 - Technical Coach @AnitaB.org
-- Content writer @Scholarship Track
 - B. Tech CSE '23
 
 ## 🤩 I was a
 
+- Content writer @Scholarship Track
 - Harvard WECode '23 Tech Fellow
 - Member & Contributor @Layer5 @Meshery
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
