@@ -6,13 +6,13 @@
 
 ## 👩‍💻 I am currently a
 
-- LFX Mentee @Hyperledger -  Documentation Standards
-- Technical Coach @AnitaB.org
-- B. Tech CSE '23
+- Research and Development Intern @Status
 
 ## 🤩 I was a
 
-- Content writer @Scholarship Track
+- B. Tech CSE '23
+- Technical Coach @AnitaB.org
+- LFX Mentee @Hyperledger -  Documentation Standards
 - Harvard WECode '23 Tech Fellow
 - Member & Contributor @Layer5 @Meshery
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
