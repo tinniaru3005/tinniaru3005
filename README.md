@@ -6,7 +6,7 @@
 
 ## 👩‍💻 I am currently a
 
-- Research and Development Intern @Status
+- Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
 - LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
 
 ## 🤩 I was a
