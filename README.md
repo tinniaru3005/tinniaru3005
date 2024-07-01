@@ -6,12 +6,13 @@
 
 ## 👩‍💻 I am currently a
 
-- Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
+- Freelancer @Status
 - LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
+- M. Tech CSE '25 at National Institute of Technology Warangal (NITW).
 
 ## 🤩 I was a
 
-- B. Tech CSE '23
+- Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
 - Technical Coach @AnitaB.org
 - LFX Mentee @Hyperledger -  Documentation Standards
 - Harvard WECode '23 Tech Fellow
@@ -19,6 +20,7 @@
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - MLH Prep Fellow July '22
 - Open Source Hack Mentor July '22 and October '22
+- B. Tech CSE '23
 
 ## 🏆 Achievements
 
