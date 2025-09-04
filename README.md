@@ -6,13 +6,12 @@
 
 ## 👩‍💻 I am currently a
 
-- Freelancer @Status
-- LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
-- M. Tech CSE '25 at National Institute of Technology Warangal (NITW).
+- Research Engineer @Status
 
 ## 🤩 I was a
 
 - Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
+- LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
 - Technical Coach @AnitaB.org
 - LFX Mentee @Hyperledger -  Documentation Standards
 - Harvard WECode '23 Tech Fellow
@@ -20,6 +19,7 @@
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - MLH Prep Fellow July '22
 - Open Source Hack Mentor July '22 and October '22
+- M. Tech CSE '25 at National Institute of Technology Warangal (NITW).
 - B. Tech CSE '23
 
 ## 🏆 Achievements
@@ -34,18 +34,20 @@
 - Women in Tech Global Conference (WTGC) Scholar '22
 - GATE CS '22 AIR 1048
 
+## Research Publications
+
+### Enhanced Efficient Fast Data Availability Sampling under Majority Dishonest Byzantine Attacks
+First Author — Year: 2025 — Conference Paper (BCCA) — Publisher: IEEE
+
+### On the Design of Ethereum’s Data Availability Sampling: A Comprehensive Simulation Study ([Paper Link](https://arxiv.org/abs/2407.18085))
+First Author — Year: 2024 — Conference Paper (BRAINS) — Publisher: IEEE
+
 ## 📈 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
 
-[![Arunima's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinniaru3005&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <a href="https://github.com/tinniaru3005">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=radical&layout=compact&">
 </a>
-
-## 👀 Profile views
-
-![Visitor Count](https://profile-counter.glitch.me/{tinniaru3005}/count.svg) 
