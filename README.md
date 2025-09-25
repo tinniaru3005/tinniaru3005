@@ -7,6 +7,7 @@
 ## 👩‍💻 I am currently a
 
 - Research Engineer @Status
+- Lead @WiEP (Women in Ethereum Protocol) Cohort 4
 
 ## 🤩 I was a
 
