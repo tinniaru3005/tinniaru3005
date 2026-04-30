@@ -7,11 +7,11 @@
 ## 👩‍💻 I am currently a
 
 - Research Engineer @Status
-- Lead @WiEP (Women in Ethereum Protocol) Cohort 4
 
 ## 🤩 I was a
 
-- Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
+- Lead @WiEP (Women in Ethereum Protocol) Cohort 4
+- Research and Development Intern @Status
 - LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
 - Technical Coach @AnitaB.org
 - LFX Mentee @Hyperledger -  Documentation Standards
@@ -20,7 +20,9 @@
 - MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
 - MLH Prep Fellow July '22
 - Open Source Hack Mentor July '22 and October '22
-- M. Tech CSE '25 at National Institute of Technology Warangal (NITW).
+
+## 🎓 Education
+- M. Tech CSE '25 at National Institute of Technology Warangal (NITW)
 - B. Tech CSE '23
 
 ## 🏆 Achievements
@@ -48,7 +50,3 @@ First Author — Year: 2024 — Conference Paper (BRAINS) — Publisher: IEEE
 <img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
-
-<a href="https://github.com/tinniaru3005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=radical&layout=compact&">
-</a>
