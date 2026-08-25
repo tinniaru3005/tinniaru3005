@@ -55,7 +55,7 @@ My work has included:
 
 ## 🎤 Speaking Experience
 
-* [**WiEP Cohort 4 Closing Ceremony**](https://www.youtube.com/watch?v=kR-qmgIcC_U&list=PL1rUZzvsr4ZnxfSY_pdylWUN8sFwJevXT) — Spoke about the cohort’s journey, outcomes, and opportunities for contributing to the Ethereum ecosystem.
+* [**WiEP Cohort 4 Closing Ceremony**](https://www.youtube.com/watch?v=kR-qmgIcC_U&list=PL1rUZzvsr4ZnxfSY_pdylWUN8sFwJevXT) — Led the cohort’s technical talk series, inviting and coordinating speakers from across the Ethereum ecosystem to share their expertise with participants.
 
 * [**Open Source Hackathon Session — Wittyhacks**](https://www.youtube.com/live/0uDMf4owMSI?si=0-N3huUq5DjFBJjq) — Delivered a session about getting started with open source and building a sustainable contribution journey.
 
