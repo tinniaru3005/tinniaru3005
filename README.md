@@ -14,6 +14,7 @@ I'm a Research Engineer working at the intersection of **Ethereum, distributed s
 * **Research and Development Intern — Status**
 * **LFX Mentee — Hyperledger Documentation Task Force**
 * **MLH Software Engineering Fellow — Solana Labs**
+* **MLH Prep Fellow**
 
 My work has included:
 
@@ -51,15 +52,6 @@ My work has included:
 
 * Organized and facilitated workshops, technical discussions, and professional-development activities.
 * Supported a global community of women pursuing education and careers in technology.
-
-### Additional Community Leadership
-
-* LFX Mentee — Hyperledger Documentation Standards
-* Harvard WECode 2023 Tech Fellow
-* Member and Contributor — Layer5 and Meshery
-* MLH Fall Fellow 2022 — Solana Labs
-* MLH Prep Fellow — July 2022
-* Open Source Hack Mentor — July and October 2022
 
 ## 🎤 Speaking Experience
 
