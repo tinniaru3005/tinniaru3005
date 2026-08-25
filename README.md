@@ -23,7 +23,7 @@
 
 ## 🎓 Education
 - M. Tech CSE '25 at National Institute of Technology Warangal (NITW)
-- B. Tech CSE '23
+- B. Tech CSE '23 at Government College of Engineering and Ceramic Technology (GCECT)
 
 ## 🏆 Achievements
 
@@ -44,9 +44,3 @@ First Author — Year: 2025 — Conference Paper (BCCA) — Publisher: IEEE
 
 ### On the Design of Ethereum’s Data Availability Sampling: A Comprehensive Simulation Study ([Paper Link](https://arxiv.org/abs/2407.18085))
 First Author — Year: 2024 — Conference Paper (BRAINS) — Publisher: IEEE
-
-## 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
