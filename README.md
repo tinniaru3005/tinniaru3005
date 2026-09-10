@@ -55,6 +55,8 @@ My work has included:
 
 ## 🎤 Speaking Experience
 
+* [**Logos Capability Discovery — IFT Town Hall**](https://www.youtube.com/live/tA0YiTrlrts?si=7uG3uND1o4hnHY6n) — Presented my research and engineering work on the Logos capability-discovery protocol, including its architecture and decentralized service discovery using the libp2p Kademlia DHT.
+
 * [**WiEP Cohort 4**](https://www.youtube.com/watch?v=kR-qmgIcC_U&list=PL1rUZzvsr4ZnxfSY_pdylWUN8sFwJevXT) — Led the cohort’s technical talk series, inviting and coordinating speakers from across the Ethereum ecosystem to share their expertise with participants.
 
 * [**Open Source Hackathon Session — Wittyhacks**](https://www.youtube.com/live/0uDMf4owMSI?si=0-N3huUq5DjFBJjq) — Delivered a session about getting started with open source and building a sustainable contribution journey.
