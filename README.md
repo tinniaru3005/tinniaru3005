@@ -85,7 +85,7 @@ My work has included:
 
 ## 📚 Research Publications
 
-### Enhanced Efficient Fast Data Availability Sampling under Majority Dishonest Byzantine Attacks
+### [Enhanced Efficient Fast Data Availability Sampling under Majority Dishonest Byzantine Attacks](https://www.researchgate.net/publication/397633889_Enhanced_Efficient_Fast_Data_Availability_Sampling_under_Majority_Dishonest_Byzantine_Attacks)
 
 * **Role:** First Author
 * **Year:** 2025
