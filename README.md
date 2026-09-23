@@ -8,13 +8,12 @@ I'm a Research Engineer working at the intersection of **Ethereum, distributed s
 
 ## 👩‍💻 Professional Experience
 
-* **Research Engineer — Status**
-* **Software Development Engineer Intern — Netradyne**
-* **Research and Development Freelancer — Status**
-* **Research and Development Intern — Status**
-* **LFX Mentee — Hyperledger Documentation Task Force**
-* **MLH Software Engineering Fellow — Solana Labs**
-* **MLH Prep Fellow**
+* **Research Engineer — Ethereum Protocols & P2P Networking, Status** · June 2025 – Present
+* **Research Engineer — Ethereum Protocols, Status** · July 2024 – May 2025
+* **Research Engineering Intern — Ethereum Protocols, Status** · January 2024 – June 2024
+* **Software Engineer Intern — AI & Full Stack, Netradyne** · January 2025 – July 2025
+* **LFX Mentee — AI & Open Source Program Management, Hyperledger Foundation** · June 2023 – November 2023
+* **MLH Software Engineering Fellow — DeFi, Solana Labs** · September 2022 – December 2022
 
 My work has included:
 
