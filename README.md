@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🔭 Building **[AgentSec](https://github.com/)** and **Agent Auth** — open-source security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
+- 🔭 Building **[AgentSec](https://github.com/)** and **[Agent Auth](https://github.com/invarislabs/agent-auth)** — open-source security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
 - 🧪 Researching Ethereum P2P service discovery (Logos Capability Discovery, libp2p Kademlia DHT) and data availability sampling, at **Status**
 - ✍️ Latest write-up: [I Asked My Coding Agent for a Yes or No. It Made a Commit.](https://arunima-chaudhuri.hashnode.dev/i-asked-my-coding-agent-for-a-yes-or-no-it-made-a-commit)
 - 🌱 100+ mentees guided across Women in Ethereum Protocol, LFX Mentorship, and AnitaB.org
