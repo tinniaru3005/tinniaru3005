@@ -11,10 +11,9 @@
 
 <br/>
 
-- 🔭 Building **[AgentSec](https://github.com/)** and **[Agent Auth](https://github.com/invarislabs/agent-auth)** — open-source security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
+- 🔭 Building **[AgentSec]([https://github.com/](https://github.com/invarislabs/invaris-agentsec))** and **[Agent Auth](https://github.com/invarislabs/agent-auth)** — open-source security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
 - 🧪 Researching Ethereum P2P service discovery (Logos Capability Discovery, libp2p Kademlia DHT) and data availability sampling, at **Status**
-- ✍️ Latest write-up: [I Asked My Coding Agent for a Yes or No. It Made a Commit.](https://arunima-chaudhuri.hashnode.dev/i-asked-my-coding-agent-for-a-yes-or-no-it-made-a-commit)
-- 🌱 100+ mentees guided across Women in Ethereum Protocol, LFX Mentorship, and AnitaB.org
+- 🌱 400+ mentees guided across Women in Ethereum Protocol, LFX Mentorship, and AnitaB.org
 - 📫 Reach me at **arunimachaudhuri2020@gmail.com**
 
 <br/>
@@ -24,7 +23,7 @@
 | Role | Organization | Duration |
 |---|---|---|
 | Founder | Invaris Labs | Sep 2026 – Present |
-| Research Engineer — Ethereum Protocols & P2P Networking | Status | Jun 2025 – Present |
+| Research Engineer — Ethereum Protocols & P2P Networking | Status | Jun 2025 – August 2026 |
 | Research Engineer — Ethereum Protocols | Status | Jul 2024 – May 2025 |
 | Software Engineer Intern — AI & Full Stack | Netradyne | Jan 2025 – Jul 2025 |
 | Research Engineering Intern — Ethereum Protocols | Status | Jan 2024 – Jun 2024 |
