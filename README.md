@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arunima Chaudhuri 👋</h1>
-<p align="center"><b>Founder</b> @ Invaris Labs · <b>Research Engineer</b> — Ethereum Protocols & P2P Networking, @ Status</p>
+<p align="center"><b>Founder</b> @ [Invaris Labs](https://github.com/invarislabs) · <b>Research Engineer</b> — Ethereum Protocols & P2P Networking, @ Status</p>
 <p align="center">Open-source builder · researcher · mentor · community leader · technical speaker</p>
 
 <p align="center">
