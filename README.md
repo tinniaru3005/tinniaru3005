@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Arunima Chaudhuri 👋</h1>
-<p align="center"><b>Founder</b> @ [Invaris Labs](https://github.com/invarislabs) · <b>Research Engineer</b> — Ethereum Protocols & P2P Networking, @ Status</p>
-<p align="center">Open-source builder · researcher · mentor · community leader · technical speaker</p>
 
+<p align="center">
+  <b>Founder</b> @ <a href="https://github.com/invarislabs">Invaris Labs</a>
+  · <b>Research Engineer</b> — Ethereum Protocols & P2P Networking, @ Status
+</p>
+
+<p align="center">
+  Open-source builder · researcher · mentor · community leader · technical speaker
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/arunima-chaudhuri/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/arunimastwt"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
