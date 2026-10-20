@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Founder</b> @ <a href="https://github.com/invarislabs">Invaris Labs</a>
-  · <b>Research Engineer</b> — Ethereum Protocols & P2P Networking, @ Status
+  · <b>Former Research Engineer</b> — Ethereum Protocols & P2P Networking, @ Status
 </p>
 
 <p align="center">
