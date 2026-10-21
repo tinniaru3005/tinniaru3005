@@ -17,7 +17,7 @@
 
 <br/>
 
-- 🔭 Building **[AgentSec](https://github.com/invarislabs/invaris-agentsec)** and **[Agent Auth](https://github.com/invarislabs/agent-auth)** — open-source security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
+- 🔭 Building **[AgentSec](https://github.com/invarislabs/invaris-agentsec)** and **[Agent Auth](https://github.com/invarislabs/agent-auth)** — security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
 - 🌱 400+ mentees guided across Women in Ethereum Protocol, LFX Mentorship, and AnitaB.org
 - 📫 Reach me at **arunimachaudhuri2020@gmail.com**
 
