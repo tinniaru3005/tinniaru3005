@@ -187,11 +187,11 @@ AI agent security and identity infrastructure · Ethereum data availability samp
 
 **Master of Technology, Computer Science & Engineering**
 
-National Institute of Technology, Warangal · 2023 – 2025 · CGPA: 7.5/10
+National Institute of Technology, Warangal (NITW) · 2023 – 2025 · CGPA: 7.5/10
 
 **Bachelor of Technology, Computer Science & Engineering**
 
-Government College of Engineering and Ceramic Technology · 2019 – 2023 · CGPA: 9.53/10
+Government College of Engineering and Ceramic Technology (GCECT) · 2019 – 2023 · CGPA: 9.53/10
 
 <br/>
 
