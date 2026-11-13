@@ -230,4 +230,20 @@ Government College of Engineering and Ceramic Technology (GCECT) · 2019 – 202
 
 - 🏅 **Harvard WECode Distinguished Fellow** — one of 11 global women honorees selected by Harvard University
 - 📜 **Linux Foundation Training (LiFT) Scholar** — one of 50 global women honorees
-- 🏆 [**WeMakeDevs Hashnode Blogging
+- 🏆 [**WeMakeDevs Hashnode Blogging Challenge — Special Track Winner**](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) for [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
+- 🥉 [**#DebuggingFeb Writeathon — Third Prize**](https://townhall.hashnode.com/debuggingfeb-writeathon-winners) for [Debugging CSS with Chrome DevTools](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
+- 🎓 **Harvard WEAmplify Extended Scholar 2023**
+- 🎤 **GDG DevFest Kolkata 2022 Speaker**
+- 🎫 **Dan Kohn Student Scholar 2022** — KubeCon + CloudNativeCon North America
+- 🌐 **Women in Tech Global Conference Scholar 2022**
+- 📊 **GATE Computer Science 2022** — All India Rank 1048
+
+<br/>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&hide_border=true"/>
+</p>
+
+<p align="center"><i>Thanks for stopping by — always happy to talk AI agent security, Ethereum protocols, open source, or mentorship 🚀</i></p>
