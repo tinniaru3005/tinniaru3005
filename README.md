@@ -214,16 +214,6 @@ Shared memory that remembers *where every fact came from*, so a poisoned memory 
 
 <br/>
 
-## ✍️ Writing
-
-- [7 critical findings → 0, approved in the room: red-teaming AI agents on Switch](https://arunima-chaudhuri.hashnode.dev/7-critical-findings-to-0-approved-in-the-room-red-teaming-ai-agents-on-switch)
-- [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
-- [Debugging CSS with Chrome DevTools](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
-
-More on [Hashnode](https://hashnode.com/@ArunimaChaudhuri).
-
-<br/>
-
 ## 🎓 Education
 
 **Master of Technology, Computer Science & Engineering**
