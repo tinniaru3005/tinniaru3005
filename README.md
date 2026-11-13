@@ -18,6 +18,7 @@
 <br/>
 
 - 🔭 Building **[AgentSec](https://github.com/invarislabs/invaris-agentsec)** and **[Agent Auth](https://github.com/invarislabs/agent-auth)** — security & identity infrastructure for autonomous AI agents, as Founder of **Invaris Labs**
+- 🧪 Shipping security tooling for multi-agent systems — **[Red Room](https://github.com/tinniaru3005/red-room)** (agent red-teaming inside a live chat room) and **[Custody](https://github.com/tinniaru3005/custody)** (provenance-tracked shared memory for agents)
 - 🌱 400+ mentees guided across Women in Ethereum Protocol, LFX Mentorship, and AnitaB.org
 - 📫 Reach me at **arunimachaudhuri2020@gmail.com**
 
@@ -103,7 +104,37 @@
 </details>
 
 **What that work has covered:**
-AI agent security and identity infrastructure · Ethereum data availability sampling and P2P networking research · service-discovery protocols using libp2p Kademlia DHT · large-scale simulations across 10,000+ nodes · Byzantine attack and correlated-failure analysis · Ethereum mainnet data analysis and developer tooling · retrieval-augmented generation pipelines and vector databases · open-source development in Go, Python, Nim, Rust, TypeScript, and more.
+AI agent security and identity infrastructure · multi-agent trust, provenance, and adversarial testing · Ethereum data availability sampling and P2P networking research · service-discovery protocols using libp2p Kademlia DHT · large-scale simulations across 10,000+ nodes · Byzantine attack and correlated-failure analysis · Ethereum mainnet data analysis and developer tooling · retrieval-augmented generation pipelines and vector databases · open-source development in Go, Python, Nim, Rust, TypeScript, and more.
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔴 [Red Room](https://github.com/tinniaru3005/red-room) — red-teaming AI agents inside a live chat room
+
+A Python security agent that joins a **Switch** room alongside your other agents and attacks them from the inside — the one place existing scanners can't reach. A custom **AgentSec** attack pack targets **inter-agent prompt injection** (**OWASP ASI07**), where one agent's output becomes another agent's instruction.
+
+- Full agent loop over **SSE**: register → event stream → heartbeat → `connect_to_room` → findings posted in the room.
+- **Server-enforced human approval** gate with approver-identity checks — nothing is patched until a human signs off in the channel.
+- **Unified-diff source patching** and automated re-verification, closing the loop from finding to fix to proof.
+- Drove **7 critical findings to 0** in a live **Docker**/**Mattermost** room, fixing 6 protocol-integration bugs along the way.
+
+📖 [Build story](https://arunima-chaudhuri.hashnode.dev/7-critical-findings-to-0-approved-in-the-room-red-teaming-ai-agents-on-switch) · 🎥 [2:30 demo](https://youtu.be/pkZGIQAeVAE) · 🏷️ Built for the **Flip the Switch** hackathon (Best Business Workflow)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Switch-000000?style=flat-square"/> <img src="https://img.shields.io/badge/SSE-005571?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+
+---
+
+### 🗝️ [Custody](https://github.com/tinniaru3005/custody) — provenance-tracked shared memory for AI agents
+
+Shared memory that remembers *where every fact came from*, so a poisoned memory written in one session can't quietly authorize a tool call in another. Built on **FalkorDB** behind **FastAPI**.
+
+- A deterministic **Guard** runs **BFS** via **Cypher** over the provenance graph to **ALLOW/BLOCK** tool calls, stopping cross-session **prompt-injection** exfiltration.
+- A **Warden** incident-response agent exposes 17 **MCP** tools — **betweenness** centrality, **WCC** clustering, quarantine — for tracing and containing a compromise.
+- Benchmarked on 330 attack cases at **1.00 F1**, versus 0.85 for the best **RAG** baseline.
+- Ships a **React**/**TypeScript** console and a 300+ test suite.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FalkorDB-FF5500?style=flat-square"/> <img src="https://img.shields.io/badge/Cypher-008CC1?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 <br/>
 
@@ -113,13 +144,13 @@ AI agent security and identity infrastructure · Ethereum data availability samp
 <br/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-**AI/ML Systems**
+**AI/ML & Agent Systems**
 <br/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Embeddings-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Vector_Search-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Retrieval-412991?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Embeddings-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Vector_Search-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Semantic_Retrieval-412991?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Agent_Red_Teaming-B91C1C?style=flat-square"/> <img src="https://img.shields.io/badge/OWASP_ASI-000000?style=flat-square&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 
 **Data & Storage**
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square"/> <img src="https://img.shields.io/badge/FalkorDB-FF5500?style=flat-square"/> <img src="https://img.shields.io/badge/Cypher-008CC1?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
 **Backend**
 <br/>
@@ -183,6 +214,16 @@ AI agent security and identity infrastructure · Ethereum data availability samp
 
 <br/>
 
+## ✍️ Writing
+
+- [7 critical findings → 0, approved in the room: red-teaming AI agents on Switch](https://arunima-chaudhuri.hashnode.dev/7-critical-findings-to-0-approved-in-the-room-red-teaming-ai-agents-on-switch)
+- [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
+- [Debugging CSS with Chrome DevTools](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
+
+More on [Hashnode](https://hashnode.com/@ArunimaChaudhuri).
+
+<br/>
+
 ## 🎓 Education
 
 **Master of Technology, Computer Science & Engineering**
@@ -199,20 +240,4 @@ Government College of Engineering and Ceramic Technology (GCECT) · 2019 – 202
 
 - 🏅 **Harvard WECode Distinguished Fellow** — one of 11 global women honorees selected by Harvard University
 - 📜 **Linux Foundation Training (LiFT) Scholar** — one of 50 global women honorees
-- 🏆 [**WeMakeDevs Hashnode Blogging Challenge — Special Track Winner**](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) for [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
-- 🥉 [**#DebuggingFeb Writeathon — Third Prize**](https://townhall.hashnode.com/debuggingfeb-writeathon-winners) for [Debugging CSS with Chrome DevTools](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
-- 🎓 **Harvard WEAmplify Extended Scholar 2023**
-- 🎤 **GDG DevFest Kolkata 2022 Speaker**
-- 🎫 **Dan Kohn Student Scholar 2022** — KubeCon + CloudNativeCon North America
-- 🌐 **Women in Tech Global Conference Scholar 2022**
-- 📊 **GATE Computer Science 2022** — All India Rank 1048
-
-<br/>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&hide_border=true"/>
-</p>
-
-<p align="center"><i>Thanks for stopping by — always happy to talk AI agent security, Ethereum protocols, open source, or mentorship 🚀</i></p>
+- 🏆 [**WeMakeDevs Hashnode Blogging
